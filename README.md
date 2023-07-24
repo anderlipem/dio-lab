@@ -1,2 +1,2 @@
 # dio-lab
-Atividades DIO Ciência de Dados
+Atividades do BootCamp Potência Tech powered by iFood: Ciência de Dados com Python
